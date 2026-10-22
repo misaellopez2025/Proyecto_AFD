@@ -11,9 +11,14 @@ Proyecto del curso Autómatas y Lenguajes Formales — Universidad Mariano Gálv
 - Controles: Anterior, Siguiente, Reproducir y Reiniciar.
 - Menús: Archivo (Abrir, Nuevo, Guardar, Salir), Ejemplos (3 AFD) y Acerca de (Acerca de, Ayuda, Manual PDF).
 
+**Página del proyecto:** https://misaellopez2025.github.io/Proyecto_AFD/
+
 ## Instalación
-Descargue `Instalador_Simulador_AFD.exe` desde la sección **Releases** de este repositorio y ejecútelo.
-No requiere Python ni Graphviz instalados.
+Descargue `Instalador_Simulador_AFD.exe` desde la [página del proyecto](https://misaellopez2025.github.io/Proyecto_AFD/)
+o desde la sección **Releases** de este repositorio y ejecútelo. No requiere Python ni Graphviz instalados.
+
+> **Nota:** Windows puede mostrar *"Windows protegió su PC"* porque el instalador no tiene firma digital comercial.
+> Haga clic en **Más información → Ejecutar de todas formas**.
 
 ## Ejecutar desde el código
 ```powershell
