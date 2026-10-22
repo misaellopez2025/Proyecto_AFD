@@ -1,0 +1,13 @@
+Simbolos: x,y,z
+Estados: A,B,C
+Estado inicial: A
+Estados de aceptacion: C
+Transiciones:
+B,-,-
+-,C,B
+-,-,C
+Cadenas a analizar:
+x,y
+x,z,y,z
+y,x
+x,y,z,z

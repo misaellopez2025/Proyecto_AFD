@@ -1,0 +1,17 @@
+# Entornos de Python (cada quien crea el suyo con CONFIGURAR.ps1)
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Salidas de compilación (el instalador se publica en GitHub Releases)
+build/
+dist/
+instalador/
+*.spec
+
+# Copia local previa a los cambios
+respaldo_original/
+
+# Graphviz: descargas temporales de CONFIGURAR.ps1
+tools/downloads/

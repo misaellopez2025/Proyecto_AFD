@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": ["${workspaceFolder}"],
+    "files.exclude": {
+        "**/__pycache__": true,
+        "tools/graphviz/**/*.dll": true,
+        "tools/graphviz/**/config8": true
+    }
+}

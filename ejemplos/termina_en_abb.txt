@@ -1,0 +1,14 @@
+Simbolos: a,b
+Estados: q0,q1,q2,q3
+Estado inicial: q0
+Estados de aceptacion: q3
+Transiciones:
+q1,q0
+q1,q2
+q1,q3
+q1,q0
+Cadenas a analizar:
+a,b,b
+b,a,a,b,b
+a,b,a
+a,b,b,a
